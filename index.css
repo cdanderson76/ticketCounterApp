@@ -9,8 +9,8 @@
     text-shadow: 3px 3px 4px black;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: rgb(221, 221, 221);
-    font-family: 'Oxygen', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: linear-gradient(to right top, #51224c, #5a345b, #63466a, #6d5778, #786986, #7a667c, #796474, #76626c, #604e4f, #473d39, #2e2b27, #1a1a19);
+    font-family: 'Oxygen', 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
     width: 100%;
